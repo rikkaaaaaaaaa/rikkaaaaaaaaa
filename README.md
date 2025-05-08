@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning at Southeast University.
 - 💞️ I’m looking to collaborate on Cyber Security and Deep Learning.
-- 📫 How to reach me 213230736@seu.com.cn
+- 📫 How to reach me haoyzhang@seu.edu.cn
 
 
 <!---
